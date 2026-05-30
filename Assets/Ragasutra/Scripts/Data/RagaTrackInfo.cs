@@ -1,0 +1,28 @@
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Ragasutra.Scripts.Data
+{
+    public enum InstrumentType
+    {
+        Vocal,
+        Flute,
+        Sitar, 
+        Sarod, 
+        Veena,
+        Violin,
+        Santoor,
+        Tabla,
+        Harmonium
+    }
+
+    [System.Serializable]
+    public class RagaTrackInfo
+    {
+        [SerializeField] private AudioClip m_Clip;
+        [SerializeField] private List<ArtistData> m_Performers;
+
+        public AudioClip Clip => m_Clip;
+        public IReadOnlyList<ArtistData> Performers => m_Performers;
+    }
+}
