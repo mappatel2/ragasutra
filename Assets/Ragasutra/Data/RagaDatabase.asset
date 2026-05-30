@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8929d846016061947acd911626ff9bb0, type: 3}
   m_Name: RagaDatabase
   m_EditorClassIdentifier: Assembly-CSharp::Ragasutra.Scripts.Data.RagaDatabase
-  m_RagaDataList: []
+  m_RagaDataList:
+  - {fileID: 11400000, guid: af2a88ddc66c31a4f8d3644a60c7550a, type: 2}
+  - {fileID: 11400000, guid: 88629961d72a56242b4d5872227d29e1, type: 2}
