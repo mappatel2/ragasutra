@@ -13,7 +13,10 @@ namespace Ragasutra.Scripts.Data
         Violin,
         Santoor,
         Tabla,
-        Harmonium
+        Harmonium,
+        Pakhawaj,
+        Tanpura,
+        Mridangam
     }
 
     [System.Serializable]
