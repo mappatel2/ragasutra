@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc1c154d1d3f32449edbf55f2b84f5e, type: 3}
+  m_Name: Gaud_Sarang
+  m_EditorClassIdentifier: Assembly-CSharp::Ragasutra.Scripts.Data.RagaData
+  m_RagaName: Gaud Sarang
+  m_Prahar: 2
+  m_Thaat: 
+  m_MoodDescription: 
+  m_AvailableTracks:
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=Gc24P7ojcGo&list=PL4Zcl2dAR1BxwKfjaF2_aMulQF3ggg6Jw&index=6
+    m_Performers:
+    - {fileID: 11400000, guid: 5c7c405c0966666498a44ad896b7e343, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=Te4kjMyt40g&list=PL4Zcl2dAR1BxwKfjaF2_aMulQF3ggg6Jw&index=6
+    m_Performers:
+    - {fileID: 11400000, guid: 8a3a0c1920032514780ae7d6af3321f2, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=mb1tcdhwMB4&list=PL4Zcl2dAR1BxwKfjaF2_aMulQF3ggg6Jw&index=7
+    m_Performers:
+    - {fileID: 11400000, guid: 33fb99ca67b66804eb6a479122e387bd, type: 2}

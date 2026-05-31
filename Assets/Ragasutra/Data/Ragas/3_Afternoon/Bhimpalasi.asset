@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc1c154d1d3f32449edbf55f2b84f5e, type: 3}
+  m_Name: Bhimpalasi
+  m_EditorClassIdentifier: Assembly-CSharp::Ragasutra.Scripts.Data.RagaData
+  m_RagaName: Bhimpalasi
+  m_Prahar: 2
+  m_Thaat: 
+  m_MoodDescription: 
+  m_AvailableTracks:
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=YdHe4dTc4Dw&list=PL4Zcl2dAR1BxwKfjaF2_aMulQF3ggg6Jw&index=1&t=53s
+    m_Performers:
+    - {fileID: 11400000, guid: 33fb99ca67b66804eb6a479122e387bd, type: 2}
+    - {fileID: 11400000, guid: 55e107e5d0a102e488f57c15e27fa99d, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=G5YOMD6tmUY&list=PL4Zcl2dAR1BxwKfjaF2_aMulQF3ggg6Jw&index=2
+    m_Performers:
+    - {fileID: 11400000, guid: a4430126d58875941a912735d832719a, type: 2}
+    - {fileID: 11400000, guid: f5354a63436b15943b5d35229f662c3a, type: 2}
+    - {fileID: 11400000, guid: 36a78e52beaab2b45ab9bfcf665ae7c3, type: 2}
+    - {fileID: 11400000, guid: 78f7780fee27b09439d574347392b0e4, type: 2}
+    - {fileID: 11400000, guid: f4652df8300bde94db1dccbc0c13f398, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=uQghAGGP5fI&list=PL4Zcl2dAR1BxwKfjaF2_aMulQF3ggg6Jw&index=3
+    m_Performers:
+    - {fileID: 11400000, guid: 9cd8354bcdfa3a0409c5e49790a2ef0d, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=L44sHueFsbY&list=PL4Zcl2dAR1BxwKfjaF2_aMulQF3ggg6Jw&index=4
+    m_Performers:
+    - {fileID: 11400000, guid: c946996cb9fe37742bb9a412eea85797, type: 2}
+    - {fileID: 11400000, guid: f15038ac1c74a9c40b44d45a03365e15, type: 2}
+    - {fileID: 11400000, guid: e8f50e956c166b14db2a2ab3da5b0ddb, type: 2}
+    - {fileID: 11400000, guid: ae204afbed6b8ff4a9adff1f8de87fa2, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=D31qsk4Zho0&list=PL4Zcl2dAR1BxwKfjaF2_aMulQF3ggg6Jw&index=9
+    m_Performers:
+    - {fileID: 11400000, guid: 1b811e598fe9da94694f3095d97f7e15, type: 2}
+    - {fileID: 11400000, guid: 97239661ea3bb874797469a27ba502c9, type: 2}
