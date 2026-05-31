@@ -23,6 +23,9 @@ namespace Ragasutra.Scripts.Data
     public class RagaTrackInfo
     {
         [SerializeField] private AudioClip m_Clip;
+#if UNITY_EDITOR
+        [SerializeField] private string m_YoutubeUrl;
+#endif
         [SerializeField] private List<ArtistData> m_Performers;
 
         public AudioClip Clip => m_Clip;
