@@ -3,22 +3,6 @@ using UnityEngine;
 
 namespace Ragasutra.Scripts.Data
 {
-    public enum InstrumentType
-    {
-        Vocal,
-        Flute,
-        Sitar, 
-        Sarod, 
-        Veena,
-        Violin,
-        Santoor,
-        Tabla,
-        Harmonium,
-        Pakhawaj,
-        Tanpura,
-        Mridangam
-    }
-
     [System.Serializable]
     public class RagaTrackInfo
     {
