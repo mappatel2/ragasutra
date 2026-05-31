@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc1c154d1d3f32449edbf55f2b84f5e, type: 3}
+  m_Name: Jaunpuri
+  m_EditorClassIdentifier: Assembly-CSharp::Ragasutra.Scripts.Data.RagaData
+  m_RagaName: Jaunpuri
+  m_Prahar: 1
+  m_Thaat: 
+  m_MoodDescription: 
+  m_AvailableTracks:
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=ZbK5di9ZZzM&list=PL4Zcl2dAR1BxEjne-aZUi5OKCWqWsYQ_n&t=164s
+    m_Performers:
+    - {fileID: 11400000, guid: 33fb99ca67b66804eb6a479122e387bd, type: 2}
+    - {fileID: 11400000, guid: de3c0ff4e5ca74e4683ae9c726680c84, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=Vkl1UdyAEQc&list=PL4Zcl2dAR1BxEjne-aZUi5OKCWqWsYQ_n&index=2
+    m_Performers:
+    - {fileID: 11400000, guid: 8a3a0c1920032514780ae7d6af3321f2, type: 2}
+    - {fileID: 11400000, guid: 8f343465f3d87c2499e247818a7ebb24, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=nl_7H8UYGDk&list=PL4Zcl2dAR1BxEjne-aZUi5OKCWqWsYQ_n&index=11
+    m_Performers:
+    - {fileID: 11400000, guid: 5eba6dbbb3af843428c02c319c491d07, type: 2}
+    - {fileID: 11400000, guid: 232ed06827e138740985ca5f0911af99, type: 2}

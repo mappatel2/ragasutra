@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc1c154d1d3f32449edbf55f2b84f5e, type: 3}
+  m_Name: Charukeshi
+  m_EditorClassIdentifier: Assembly-CSharp::Ragasutra.Scripts.Data.RagaData
+  m_RagaName: Charukeshi
+  m_Prahar: 1
+  m_Thaat: 
+  m_MoodDescription: 
+  m_AvailableTracks:
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=vZpYtVORZX0&list=PL4Zcl2dAR1BxEjne-aZUi5OKCWqWsYQ_n&index=6
+    m_Performers:
+    - {fileID: 11400000, guid: b05de9233e3fdc0499c95b57ac2ceedc, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=zXGAyhdAJuE&list=PL4Zcl2dAR1BxEjne-aZUi5OKCWqWsYQ_n&index=7
+    m_Performers:
+    - {fileID: 11400000, guid: f4adb8e7f23fead4984894032ecb81b4, type: 2}
+    - {fileID: 11400000, guid: 65f73b1e59b5cc343a2249ec847d3475, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=0TSiJ640Fk8&list=PL4Zcl2dAR1BxEjne-aZUi5OKCWqWsYQ_n&index=8
+    m_Performers:
+    - {fileID: 11400000, guid: 1b811e598fe9da94694f3095d97f7e15, type: 2}
+    - {fileID: 11400000, guid: faf609593d7c67741a5fc65e910f565b, type: 2}
+    - {fileID: 11400000, guid: 7024183d865f1c7419c397f62c83caa5, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=tcX0pE0hLNE&list=PL4Zcl2dAR1BxEjne-aZUi5OKCWqWsYQ_n&index=9
+    m_Performers:
+    - {fileID: 11400000, guid: 33fb99ca67b66804eb6a479122e387bd, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=pzb5V8AYM68&list=PL4Zcl2dAR1BxEjne-aZUi5OKCWqWsYQ_n&index=10
+    m_Performers:
+    - {fileID: 11400000, guid: 33fb99ca67b66804eb6a479122e387bd, type: 2}
+    - {fileID: 11400000, guid: 294cb69fa0c7690448aecacbfebc4a1b, type: 2}
