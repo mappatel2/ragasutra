@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc1c154d1d3f32449edbf55f2b84f5e, type: 3}
+  m_Name: Purvi
+  m_EditorClassIdentifier: Assembly-CSharp::Ragasutra.Scripts.Data.RagaData
+  m_RagaName: Purvi
+  m_Prahar: 3
+  m_Thaat: 
+  m_MoodDescription: 
+  m_AvailableTracks:
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=nNkkmpobGWg&list=PL4Zcl2dAR1BwoBJsxajVTjYzDFipePKHh&index=1&t=48s
+    m_Performers:
+    - {fileID: 11400000, guid: 1fad6953337ee484b8ba48ba4b1b848d, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=9KzPmlfmFSU&list=PL4Zcl2dAR1BwoBJsxajVTjYzDFipePKHh&index=2
+    m_Performers:
+    - {fileID: 11400000, guid: 3f4ef377f55d96743b56db2c0e4f49e6, type: 2}
+    - {fileID: 11400000, guid: 250c2edccca719d4b889a88fc1c46d59, type: 2}
+    - {fileID: 11400000, guid: b940080367e214f47b51451fa4f8a603, type: 2}
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=VmhNMXHETpk&list=PL4Zcl2dAR1BwoBJsxajVTjYzDFipePKHh&index=3
+    m_Performers:
+    - {fileID: 11400000, guid: 8a3a0c1920032514780ae7d6af3321f2, type: 2}

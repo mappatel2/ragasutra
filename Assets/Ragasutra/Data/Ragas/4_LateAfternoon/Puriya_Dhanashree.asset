@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc1c154d1d3f32449edbf55f2b84f5e, type: 3}
+  m_Name: Puriya_Dhanashree
+  m_EditorClassIdentifier: Assembly-CSharp::Ragasutra.Scripts.Data.RagaData
+  m_RagaName: Puriya Dhanashree
+  m_Prahar: 3
+  m_Thaat: 
+  m_MoodDescription: 
+  m_AvailableTracks:
+  - m_Clip: {fileID: 0}
+    m_YoutubeUrl: https://www.youtube.com/watch?v=EUIsvE-Xazg&list=PL4Zcl2dAR1BwoBJsxajVTjYzDFipePKHh&index=10
+    m_Performers:
+    - {fileID: 11400000, guid: be697c03eb9a1c1418351b9a2e65d99b, type: 2}
